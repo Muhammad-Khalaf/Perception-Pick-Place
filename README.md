@@ -1,1 +1,0 @@
-# Perception-Pick-Place
